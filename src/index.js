@@ -1,7 +1,6 @@
 'use strict';
 
 const str = 'Аргентина МАНИТ негра';
-const sep = '';
 
 const reverseLine = (str) => {
   const sep = '';
